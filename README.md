@@ -1,1 +1,1 @@
-# hello-world
+# Esse arquivo hello-world constitui-se na primeira atividades do Curso de desenvolvimento com foco em Back-end da Cubos Academy
